@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_37c83fa644361afb27e8d320ca33ca5a03f4de69.jar" />
+    </item>
+    <item
+        jar="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_110cbbdc8452ab0c63839357b4c364b7fea66b77.jar" />
+    </item>
+    <item
+        jar="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_0ece61efd4432eec9001f139ad0ed6a28b97c404.jar" />
+    </item>
+    <item
+        jar="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c65358cdb996a51cd6345c3329b1be261bf51fce.jar" />
+    </item>
+    <item
+        jar="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_453aa034da66caf856a057f959b8b0a4bed18ed8.jar" />
+    </item>
+    <item
+        jar="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5be80553dd1b3ff2c0e625a7f5a21ebb233f32f3.jar" />
+    </item>
+    <item
+        jar="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_c0b40e94efd799d43f167f81564bf0ae7c5616ff.jar" />
+    </item>
+    <item
+        jar="E:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_8c5cf8deaa9662e04a98d5bbe44b816fb0bb3cc2.jar" />
+    </item>
+    <item
+        jar="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_1097c62cb9c768d79eadc3c5a7fb13496ce76332.jar" />
+    </item>
+    <item
+        jar="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_c9153182b303fcafaa188fc93e08a122681f44ad.jar" />
+    </item>
+    <item
+        jar="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a580c6150f54e24e738d834b9afbb5dfe528c51e.jar" />
+    </item>
+    <item
+        jar="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\New folder\codecanyon-13439744-android-webview-app-universal-for-all-website\APPNETWORK-AndroidStudio\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_d7f428254e3277960af263ab4d3a458a5794640c.jar" />
+    </item>
+
+</items>
